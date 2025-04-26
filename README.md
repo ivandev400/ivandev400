@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Ivan | Full-Stack .NET & Angular Developer  
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BB02F7&width=435&lines=🚀+**Building+scalable+web+apps+with+ASP.NET,+Angular+and+Azure**" alt="Intro" />
 🚀 **Building scalable web apps with ASP.NET, Angular, and Azure**  
 
 ---
 
 ### 🔥 **Tech Stack**  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,sql,azure,github,docker,postman" />  
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,bots,azure,github,gitlab,docker,visualstudio,postman" />  
 </p>
 
 ---
 
-### 🌟 **Featured Projects**  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38F7D0&width=435&lines=🌟+Featured+Projects" alt="Projects" />
 ▶ **WeatherAlertBot**  
 Real-time weather alerts using ASP.NET Web API and Azure.  
 [![View Code](https://img.shields.io/badge/Code-WeatherAlertBot-blue)](https://github.com/yourusername/WeatherAlertBot)  
