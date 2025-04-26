@@ -3,7 +3,7 @@
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=3000&color=BB02F7&width=750&lines=🚀+Building+scalable+web+apps+with+ASP.NET,+Angular+and+Azure" alt="Intro" /></h2>
 
 ---
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38F7D0&width=435&lines=🔥+Tech+Stack" alt="Stack" /> </h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38F7D0&width=200&lines=🔥+Tech+Stack" alt="Stack" /> </h3>
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,bots,azure,github,gitlab,docker,visualstudio,postman" />  
 </p>
