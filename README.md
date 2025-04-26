@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Ivan | Full-Stack .NET/Angular Developer  
 
-<!--
-**ivandev400/ivandev400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Tech Stack**:  
+- **Backend**: ASP.NET, C#, Entity Framework, Azure  
+- **Frontend**: Angular, HTML/CSS  
+- **DevOps**: CI/CD (GitHub Actions), Docker  
 
-Here are some ideas to get you started:
+🔧 **Projects**:  
+- [WeatherAlertBot](https://github.com/yourusername/WeatherAlertBot) – Real-time weather alerts using ASP.NET & Azure  
+- [Task Management App](https://github.com/yourusername/TaskApp) – Angular + .NET Core  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contact**:  
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+- Email: your.email@example.com  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
