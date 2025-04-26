@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ivan | Full-Stack .NET & Angular Developer  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=BB02F7&width=435&lines=🚀+**Building+scalable+web+apps+with+ASP.NET,+Angular+and+Azure**" alt="Intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=3000&color=BB02F7&width=435&lines=🚀+**Building+scalable+web+apps+with+ASP.NET,+Angular+and+Azure**" alt="Intro" />
 
 ---
 
