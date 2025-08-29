@@ -22,7 +22,7 @@ Angular + .NET Core app with real-time task tracking.
 
 ▶ **Angle Guesser Game**  
 Angular only mini game.  
-[![View Code](https://img.shields.io/badge/Code-TaskApp-green)](https://github.com/ivandev400/AngleGuesser)
+[![View Code](https://img.shields.io/badge/Code-AngleGuesser-green)](https://github.com/ivandev400/AngleGuesser)
 
 
 ---
