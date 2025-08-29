@@ -12,6 +12,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38F7D0&width=435&lines=🌟+Featured+Projects" alt="Projects" />
 
+▶ **Angle Guesser Game**  
+Angular only mini game.  
+[![View Code](https://img.shields.io/badge/Code-AngleGuesser-red)](https://github.com/ivandev400/AngleGuesser)
+
 ▶ **WeatherAlertBot**  
 Real-time weather alerts using ASP.NET Web API and Azure.  
 [![View Code](https://img.shields.io/badge/Code-WeatherAlertBot-blue)](https://github.com/ivandev400/WeatherAlertBot)
@@ -19,10 +23,6 @@ Real-time weather alerts using ASP.NET Web API and Azure.
 ▶ **Task Management App**  
 Angular + .NET Core app with real-time task tracking.  
 [![View Code](https://img.shields.io/badge/Code-TaskApp-green)](https://github.com/ivandev400/AngulaToDo)
-
-▶ **Angle Guesser Game**  
-Angular only mini game.  
-[![View Code](https://img.shields.io/badge/Code-AngleGuesser-green)](https://github.com/ivandev400/AngleGuesser)
 
 
 ---
